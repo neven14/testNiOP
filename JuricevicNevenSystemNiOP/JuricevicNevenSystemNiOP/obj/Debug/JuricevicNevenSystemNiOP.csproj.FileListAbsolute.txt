@@ -1,0 +1,10 @@
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\bin\Debug\JuricevicNevenSystemNiOP.exe.config
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\bin\Debug\JuricevicNevenSystemNiOP.exe
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\bin\Debug\JuricevicNevenSystemNiOP.pdb
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.Form1.resources
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.Properties.Resources.resources
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.csproj.GenerateResource.cache
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.exe
+C:\Users\Gordana\source\repos\JuricevicNevenSystemNiOP\JuricevicNevenSystemNiOP\obj\Debug\JuricevicNevenSystemNiOP.pdb
